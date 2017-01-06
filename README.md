@@ -1,4 +1,4 @@
-# interactive-reports
+# Interactive-Reports
 Generating Interactive reports with Shiny
 
 **Steps to Setup in Centos**
