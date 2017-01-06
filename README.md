@@ -1,2 +1,2 @@
 # interactive-reports
-Generating Interactive reports with shiny
+Generating Interactive reports with Shiny
