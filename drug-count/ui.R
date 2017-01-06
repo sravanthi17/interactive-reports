@@ -6,7 +6,7 @@ library(ggplot2)
 conn <- dbConnect(
   drv = RMySQL::MySQL(),
   dbname = "openmrs",
-  host = "10.0.1.103",
+  host = "192.168.33.10",
   username = "openmrs-user",
   password = "password")
 on.exit(dbDisconnect(conn), add = TRUE)

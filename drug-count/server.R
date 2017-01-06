@@ -9,8 +9,7 @@ shinyServer(function(input, output) {
     conn1 <- dbConnect(
       drv = RMySQL::MySQL(),
       dbname = "openmrs",
-      
-      host = "10.0.1.103",
+      host = "192.168.33.10",
       username = "openmrs-user",
       password = "password")
     on.exit(dbDisconnect(conn1), add = TRUE)
