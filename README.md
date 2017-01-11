@@ -6,9 +6,15 @@ Generating Interactive reports with Shiny
 1) Set up Shiny 
 
     `sh scripts/setup.sh`
-2) Deploy sample (drug count)
+2) Deploying
+ 
+  2.1) All sample examples 
 
-    `sh scripts/deployDrugCount.sh`
+    `sh scripts/deployAll.sh`
+    
+  2.2) Individual Example
+  `sh scripts/deployDrugCount.sh` //for drug count
+  `sh scripts/deployDiagnosisCount.sh` // for diagnosis count
 
 **Testing**
 
