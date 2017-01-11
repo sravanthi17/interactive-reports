@@ -13,8 +13,10 @@ Generating Interactive reports with Shiny
     `sh scripts/deployAll.sh`
     
   2.2) Individual Example
-  `sh scripts/deployDrugCount.sh` //for drug count
-  `sh scripts/deployDiagnosisCount.sh` // for diagnosis count
+  
+  `sh scripts/deployDrugCount.sh` #for drug count
+  
+  `sh scripts/deployDiagnosisCount.sh` #for diagnosis count
 
 **Testing**
 
