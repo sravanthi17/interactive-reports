@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 yum install mysql-devel
 R -e "install.packages('shiny', repos='http://cran.rstudio.com/')"
 R -e "install.packages('DBI', repos='http://cran.rstudio.com/')"
