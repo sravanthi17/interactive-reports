@@ -3,6 +3,7 @@ Generating Interactive reports with Shiny
 
 **Steps to Setup in Centos**
 
+Run the below steps from scripts folder
 1) Set up Shiny 
 
     `sh scripts/setup.sh`
