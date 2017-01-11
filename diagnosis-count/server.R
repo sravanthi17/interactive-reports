@@ -2,7 +2,6 @@ library(shiny)
 library(DBI)
 library(ggplot2)
 library(reshape2)
-library(plotly)
 
 shinyServer(function(input, output) {
 
